@@ -1,0 +1,6 @@
+{
+  "name": "KasirKilat POS",
+  "description": "Aplikasi Kasir POS modern & lengkap dengan scan barcode, cetak struk belanja, laporan penjualan PDF otomatis, integrasi pembayaran digital QRIS & E-Wallet, serta sinkronisasi cloud real-time multi-perangkat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
